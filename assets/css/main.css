@@ -2571,6 +2571,12 @@ input, select, textarea {
 			line-height: 1.5em;
 			margin: 0;
 		}
+		.work-item > ul {
+			padding: 0.4rem;
+			list-style: none;
+			display: flex;
+			align-items: center;
+		}
 
 /* Header */
 
