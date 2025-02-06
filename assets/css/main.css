@@ -636,6 +636,13 @@ pre code {
   padding-top: 5em;
 }
 
+.submit {
+  margin-top: 2rem;
+}
+
+.d-none {
+  display: none;
+}
 @media screen and (max-width: 1800px) {
   .row {
     display: flex;
