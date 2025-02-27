@@ -1,7 +1,7 @@
 # Portfolio: <a target="_blank" href="https://moises-gomez.netlify.app/">Visit Here</a>
 
 <a target="_blank" href="https://moises-gomez.netlify.app/">
-<img src="/images/fulls/portfolio.gif" width="100%" alt="Portfolio"/>
+<img src="/images/fulls/portfolio.mov" width="100%" alt="Portfolio"/>
 </a>
 
 ### Portfolio site including links to my projects and ways to get in contact with me.
@@ -40,7 +40,7 @@ My learning was focused on making a simple UI and a smooth UX. Separation of Con
     <td width="33.3%" valign="top">
 <a target="_blank" href="https://jetsportswear.netlify.app/">Sportswear Store</a>
         <br />
-        <a target="_blank" href="https://github.com/CharlesCreativeContent/matching-card-game">
+        <a target="_blank" href="https://jetsportswear.netlify.app/">
           <img src="https://jetsportswear.netlify.app/" width="100%" alt="Sportswear Store"/>
         </a>
     </td>
