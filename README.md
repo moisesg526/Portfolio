@@ -1,7 +1,7 @@
 # Portfolio: <a target="_blank" href="https://moises-gomez.netlify.app/">Visit Here</a>
 
 <a target="_blank" href="https://moises-gomez.netlify.app/">
-<img src="/images/fulls/portfolio.mov" width="100%" alt="Portfolio"/>
+<img src="/images/fulls/portfolio.gif" width="100%" alt="Portfolio"/>
 </a>
 
 ### Portfolio site including links to my projects and ways to get in contact with me.
